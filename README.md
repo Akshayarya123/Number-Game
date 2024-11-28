@@ -1,5 +1,5 @@
 # Number-Game
-Author Akshay Arya
+Author - Akshay Arya
 <br>
 Arya
 
